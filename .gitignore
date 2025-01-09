@@ -1,0 +1,13 @@
+bin/
+example/
+
+codec/*/
+codec/*.vcxproj
+codec/*.vcxproj.filters
+codec/*.vcxproj.user
+
+viewer/*/
+viewer/*.vcxproj
+viewer/*.vcxproj.filters
+viewer/*.vcxproj.user
+viewer/*.db

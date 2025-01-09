@@ -1,3 +1,0 @@
-﻿D:\visualStudio2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
-    正在创建库 ..\..\lib\x86\xcodec_d.lib 和对象 ..\..\lib\x86\xcodec_d.exp
-  xcodec.vcxproj -> D:\cppsoft\ffmpeg\code\bin\x86\xcodec_d.dll
